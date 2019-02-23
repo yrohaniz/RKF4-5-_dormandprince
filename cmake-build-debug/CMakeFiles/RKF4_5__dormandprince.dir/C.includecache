@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/RKF4(5)_dormandprince/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
